@@ -17,4 +17,4 @@ while not acertou:
         print('Tente um pouco mais baixo')
     
 print('Acertou')
-print(f'Você tentou {palpite} vezes')
+print(f'Você jogou {palpite} vezes')
